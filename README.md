@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborations
 - 📫 reach me at; email: idris.oaminat@gmail.com
 
+
+- Well that's all, have fun exploring my github 👋🏾
+
 <!---
 Aminat133/Aminat133 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
