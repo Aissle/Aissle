@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Aminat133
-- 👀 I’m interested in Data and technology!..and art!
-- 🌱 I’m currently learning Machine learning engineering
-- 💞️ I’m looking to collaborations
+- 👀 I’m interested in Web development and technology!..and art!
+- 🌱 I’m currently studying electrical and electronics engineering at the university of Lagos, Nigeria.
+- 💞️ I’m looking for collaborations
 - 📫 reach me at; email: idris.oaminat@gmail.com
 
 
-- Well that's all, have fun exploring my github 👋🏾
+- Well that's all, have fun exploring my GitHub 👋🏾
 
 <!---
 Aminat133/Aminat133 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
