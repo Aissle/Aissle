@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aissle
-- 👀 I’m interested in Web development and technology!..and art!
+-  I’m interested in Web development and technology!..and art!
 - 🌱 I’m studying electrical and electronics engineering at the University of Lagos, Nigeria.
 - 💞️ I’m looking for collaborations
 - 📫 reach me at; email: idris.oaminat@gmail.com
